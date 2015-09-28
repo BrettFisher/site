@@ -1,0 +1,14 @@
+#backgroundimage {
+	background: url(assets/managersTemple.JPG) no-repeat center;
+	margin-top: 92px;
+	height: 400px;
+	width:800px;
+}
+
+.container {
+	background-image: gray;
+}
+
+#sideNavBar {
+	padding-top: 10px;
+}
